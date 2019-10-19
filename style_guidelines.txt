@@ -1,2 +1,52 @@
-style_guidelines.txt
+===HERE IS WHAT WE GOT IN MIND FOR WEBSITE STYLE===
+
+<General>
+We are going for a proffessional, simple and friendly look. The professional aspect will be achieved with high quality visuals as for the simplicity and the friendliness of the website will rely on the right choice of colours and fonts.
+
+
+<Colors>
+
+Here are suggested colors:
+
+
+<Fonts>
+
+Here are suggested fonts:
+
+
+<Buttons>
+
+Here are suggested buttons:
+
+
+<Page Setup>
+One pager: The user simply scrolls down and discovers all about our product in the sub pages. You can download the app directly from the website which we believe is effective. 
+
+Starts with a Video background of music producers, a title and a get started button
+
+Home page 
+Feature page
+Download page: this page will have a slightly different theme to differenciate it from the rest of the website. We want users to easily locate the product!
+About us Page:
+Try it out page: where most of the javascript will be
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
