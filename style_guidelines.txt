@@ -22,13 +22,16 @@ Here are suggested buttons:
 <Page Setup>
 One pager: The user simply scrolls down and discovers all about our product in the sub pages. You can download the app directly from the website which we believe is effective. 
 
-Starts with a Video background of music producers, a title and a get started button
+Starts with a Video background of music producers, a title and a get started button.
+The menu is a bar at the top of the website that follows the useras he scrolls down or up.
 
-Home page 
-Feature page
-Download page: this page will have a slightly different theme to differenciate it from the rest of the website. We want users to easily locate the product!
-About us Page:
-Try it out page: where most of the javascript will be
+1. Home page 
+2. Feature page
+3. Download page: this page will have a slightly different theme to differenciate it from the rest of the website. We want users to     easily locate the product!
+4. About us Page:
+5. Try it out page: where most of the javascript will be
+
+
 
 
 
