@@ -6,12 +6,22 @@ We are going for a proffessional, simple and friendly look. The professional asp
 
 <Colors>
 
-Here are suggested colors: Orange, Grey
+Here are suggested colors: 
+
+Orange,  #ff8533
+Brown-Orange, #e67300
+Grey, #737373
+(White and Black)
 
 
 <Fonts>
 
 Here are suggested fonts: 
+
+Confortaa (Normal)
+Exo 2 (Normal)
+Quicksand
+
 
 
 <Buttons>
@@ -28,9 +38,28 @@ Here are suggested buttons:
   Download Lite Version
   Download or upgrade to Pro
   Continue making your song
+  
+  Shapes:
+  Rectangle with rounded corners or rectangular for most menu buttons depending on the simplicity we are aiming for
+
+
+  <Links and icon> 
+  
+  Links to download the app will be visible
+  Links to naviguate and in the top menu wont show up unless you hover over them
+  
+  if you click on logo brings you to download 
+
+
+<Images>
+
+Add an image of the audio interface of the app, still needs to be designed
+Our app Logo
+Maybe a brand logo 
 
 
 <Page Setup>
+
 One pager: The user simply scrolls down and discovers all about our product in the sub pages. You can download the app directly from the website which we believe is effective. 
 
 Starts with a Video background of music producers, a title and a get started button.
@@ -56,8 +85,8 @@ The menu is a bar at the top of the website that follows the useras he scrolls d
       -Tempo
       -Emotions
       -Instrument 1
-
-
+      
+6.  ! Probably a separate page will be added after the main website ir ready for downloading the app ! 
 
 
 
