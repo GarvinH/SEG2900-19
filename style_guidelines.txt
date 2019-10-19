@@ -6,17 +6,28 @@ We are going for a proffessional, simple and friendly look. The professional asp
 
 <Colors>
 
-Here are suggested colors:
+Here are suggested colors: Orange, Grey
 
 
 <Fonts>
 
-Here are suggested fonts:
+Here are suggested fonts: 
 
 
 <Buttons>
 
-Here are suggested buttons:
+Here are suggested buttons: 
+  Home
+  Features
+  Download
+  Who is AIM.Studio?
+  Try it out!
+  Get Started Button
+  Take a look
+  Download
+  Download Lite Version
+  Download or upgrade to Pro
+  Continue making your song
 
 
 <Page Setup>
@@ -25,11 +36,26 @@ One pager: The user simply scrolls down and discovers all about our product in t
 Starts with a Video background of music producers, a title and a get started button.
 The menu is a bar at the top of the website that follows the useras he scrolls down or up.
 
-1. Home page 
-2. Feature page
-3. Download page: this page will have a slightly different theme to differenciate it from the rest of the website. We want users to     easily locate the product!
+1. Home page:
+  Few sentences about the product with a button that takes the user to try it out page
+
+2. Feature page:
+  This page will highlight all the different features that AIM.Studio has and will also introduce the product to the customer.
+    Ex(lyric generation, autotune, use of music theory to come up with beat)
+
+3. Download page: 
+  This page will have a slightly different theme to differenciate it from the rest of the website. We want users to     easily locate the product!
+
 4. About us Page:
+  This page will intoduce the creators of the program. Will also include contact information and company philosophy 
+  
 5. Try it out page: where most of the javascript will be
+  This is where user will be able to listen to song samples from the music library
+    -Menu to pick the following:
+      -Genre
+      -Tempo
+      -Emotions
+      -Instrument 1
 
 
 
