@@ -18,6 +18,7 @@ exactly what their song will transmit. Combining a huge library of sound effects
 of mixing the song and even guiding the user through the audio and the final adjustments.
 
 TEAM MEMBERS
+
 Giorgio Sawaya    Student No: 300126961
 
 Garvin Hui        Student No: 300114525
