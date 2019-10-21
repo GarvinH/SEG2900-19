@@ -1,53 +1,57 @@
 <!DOCTYPE html>
+
 <head>
     <meta charset="UTF-8">
     <title>AIM</title>
     <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
     <div id="home">
     </div>
     <div id="features"></div>
-    <div id="download"></div>
+    <div id="download">
         <h1 class="test">What are your options?</h1>
-	<p>There are two options for using AIM.Studios. The Lite version is aimed at beginners to the music industry, or those just dabbling. The Pro version is aimed at those that understand music, and want greated control over the results when required.</p> 
-	<br>
-	
-	<table>
-  	<tr>
- 		<th id="bl">Lite</th>
-	 	<th id="bl">Pro</th>
-	</tr>
-	<tr>
-		<td>Big sound library</td>
-		<td>Huge sound library</td> 
-	</tr>
- 	<tr>
- 		<td>Access to AI produced songs</td>
- 		<td>Access to AI produced songs and tweaks</td>
-	</tr>
-	<tr>
-		<td>Easy audio input, including sound effects</td>
-		<td>Advanced audio input, including many sound effects</td> 
-	</tr>
-	<tr>
-		<td>Manage one song at a time</td>
-		<td>Manage up to ten songs at once</td> 
-	</tr>
-	<tr>
-		<td>Work on personal projects</td>
-		<td>Work with any number of collaborators simultaneously</td> 
-	</tr>
-	<tr>
-		<td>4.99$ CAD</td>
-		<td>24.99$ CAD</td> 
-	</tr>
-	<tr>
-		<td id="bl"><img src="AIMLitePrime.png" alt="AIM Lite">   Download Here!</td>
-		<td id="bl"><img src="AIMProPrime.png" alt="AIM Pro">   Download Here!</td> 
-	</tr>
-	</table>
-
+        <p>There are two options for using AIM.Studios. The Lite version is aimed at beginners to the music industry, or
+            those just dabbling. The Pro version is aimed at those that understand music, and want greated control over
+            the results when required.</p>
+        <br>
+        <br>
+        <table class="downTable">
+            <tr>
+                <th id="bl">Lite</th>
+                <th id="bl">Pro</th>
+            </tr>
+            <tr>
+                <td>Big sound library</td>
+                <td>Huge sound library</td>
+            </tr>
+            <tr>
+                <td>Access to AI produced songs</td>
+                <td>Access to AI produced songs and tweaks</td>
+            </tr>
+            <tr>
+                <td>Easy audio input, including sound effects</td>
+                <td>Advanced audio input, including many sound effects</td>
+            </tr>
+            <tr>
+                <td>Manage one song at a time</td>
+                <td>Manage up to ten songs at once</td>
+            </tr>
+            <tr>
+                <td>Work on personal projects</td>
+                <td>Work with any number of collaborators simultaneously</td>
+            </tr>
+            <tr>
+                <td>4.99$ CAD</td>
+                <td>24.99$ CAD</td>
+            </tr>
+            <tr>
+                <td id="bl"><img src="AIMLitePrime.png" alt="AIM Lite"> Download Here!</td>
+                <td id="bl"><img src="AIMProPrime.png" alt="AIM Pro"> Download Here!</td>
+            </tr>
+        </table>
+    </div>
     <div id="about_us">
         <h1>Who is Aim.Studio?</h1>
         <p>A small team with the common passion for music. Meet the 5 founders of AIM:</p>
@@ -71,9 +75,12 @@
         <p>Have a look at Aim.Studio's huge sound library!</p>
         <table class="libTable  ">
             <tr>
-                <td><p class="library">Genre</p></td>
+                <td>
+                    <p class="library">Genre</p>
+                </td>
                 <td>
                     <select name="" id="" class="dropLibrary">
+                        <option value="">Select an option</option>
                         <option value="">Rap</option>
                         <option value="">Pop</option>
                         <option value="">Rock</option>
@@ -84,9 +91,12 @@
                 </td>
             </tr>
             <tr>
-                <td><p class="library">Tempo</p></td>
                 <td>
-                    <select name="" id="" class="dropLibrary">
+                    <p class="library">Tempo</p>
+                </td>
+                <td>
+                    <select name="" id="">
+                        <option value="">Select an option</option>
                         <option value="">&lt; 20 BPM</option>
                         <option value="">20 BPM - 40 BPM</option>
                         <option value="">40 BPM - 60 BPM</option>
@@ -96,18 +106,55 @@
                         <option value="">120 BPM - 140 BPM</option>
                         <option value="">140 BPM - 160 BPM</option>
                         <option value="">160 BPM - 180 BPM</option>
-                        <option value=""></option>
-                        <option value=""></option>
+                        <option value="">180 BPM - 200 BPM</option>
+                        <option value="">&gt; 200 BPM</option>
                     </select>
                 </td>
             </tr>>
             <tr>
-                <td><p class="library">Emotions</p></td>
+                <td>
+                    <p class="library">Emotions</p>
+                </td>
+                <td>
+                    <select name="" id="">
+                        <option value="">Select an option</option>
+                        <option value="">Joy</option>
+                        <option value="">Sadness</option>
+                        <option value="">Anxiety</option>
+                        <option value="">Love</option>
+                        <option value="">Calmness</option>
+                        <option value="">Tension</option>
+                        <option value="">Humour</option>
+                        <option value="">Pain</option>
+                        <option value="">Tenderness</option>
+                        <option value="">Anger</option>
+                    </select>
+                </td>
             </tr>
             <tr>
-                <td><p class="library">Instrument 1</p></td>
+                <td>
+                    <p class="library">Instrument 1</p>
+                </td>
+                <td>
+                    <select name="" id="">
+                        <option value="">Select an option</option>
+                        <option value="">Electric Guitar</option>
+                        <option value="">Bass Guitar</option>
+                        <option value="">Keyboard</option>
+                        <option value="">Piano</option>
+                        <option value="">Acoustic Guitar</option>
+                        <option value="">Drums</option>
+                        <option value="">Violin</option>
+                        <option value="">Saxophone</option>
+                        <option value="">Flute</option>
+                        <option value="">Cello</option>
+                        <option value="">Clarinet</option>
+                    </select>
+                </td>
             </tr>
         </table>
+
+        <a href="#download" class="button">Continue making your song</a>
     </div>
 
     <div class="fixedHeader">
@@ -122,4 +169,5 @@
         </nav>
     </div>
 </body>
+
 </html>
