@@ -20,9 +20,13 @@ of mixing the song and even guiding the user through the audio and the final adj
 
 TEAM MEMBERS
 
-Giorgio Sawaya    Student No: 300126961
+Giorgio Sawaya      Student No: 300126961
 
-Garvin Hui        Student No: 300114525
+Garvin Hui          Student No: 300114525
 
-Dillon Chaney     Student no. 300128969
+Dillon Chaney       Student No: 300128969
+
+Ben Flynn           Student No:   
+
+Avaneesh            Student No:
 
