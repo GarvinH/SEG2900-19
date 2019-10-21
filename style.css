@@ -114,7 +114,7 @@ li {
    	left: 10%;
 }
 
-table.downTable th, td {
+table.downTable th, table.downTable td {
     font-family: Arial, Helvetica, sans-serif;
 	border-left: 3px solid white;
 	font-size: 150%;
