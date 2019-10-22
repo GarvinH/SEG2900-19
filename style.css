@@ -75,21 +75,21 @@ li {
 #home { 
     margin-top: 64px;
     height: calc(100vh - 64px);
-    width: 100%;
+    width: 90%;
     background-color: red;
     position: relative;
 }
 
 #features {
     height: calc(100vh - 64px);
-    width: 100%;
+    width: 90%;
     background-color: blue;
     position: relative;
 }
 
 #download {
     height: calc(100vh - 64px);
-    width: 100%;
+    width: 90%;
     background-color: white;
     position: relative;
 }
@@ -100,14 +100,14 @@ li {
 
 #about_us {
     height: calc(100vh - 64px);
-    width: 100%;
+    width: 90%;
     background-color: #737373;
     position: relative;
 }
 
 #try {
     height: calc(100vh - 64px);
-    width: 100%;
+    width: 90%;
     background-color: #737373;
     position: relative;
 }
