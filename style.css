@@ -53,6 +53,8 @@ nav a{
     width: 19.9%;
     text-align: center;
     vertical-align: center;
+    opacity: 0;
+
 }
 
 nav a:hover {
