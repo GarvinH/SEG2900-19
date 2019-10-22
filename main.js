@@ -1,4 +1,4 @@
 var a = 1;
 
 
-window.alert('Welcome to AIM.Studio! We hope you are doing well.');
+print('Welcome to AIM.Studio! We hope you are doing well.');
