@@ -189,3 +189,54 @@ table.libTable td {
     box-shadow: 0 5px #666;
     transform: translate(-50%, -40%);
 }
+
+#popup {
+    height: 60vh;
+    width: 40vw;
+    background-color: lightblue;
+    border-radius: 5px;
+    position: fixed;
+    left: 30vw;
+    top: 20vh;
+}
+
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+form {
+    position: fixed;
+    top: 40%;
+    left: 35%;
+}
+
+#submit {
+    position: fixed;
+    top: 62.5%;
+    left: 35%;
+}
+
+#createaccount {
+    font-size: 100%;
+}
+
+.hidden {
+    display:none;
+}
+
+#dpage {
+    height: 40vh;
+    width: 100%;
+    background-color: white;
+    position: relative;
+}
+
+#dpage p, #dpage h1, #dpage2 p, #dpage2 h1, #dpage3 p, #dpage3 h1 {
+    color: black;
+}
