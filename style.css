@@ -147,6 +147,10 @@ table.downTable th, table.downTable td {
 	padding-left: 10px;
 }
 
+#bl {
+	border-left: 0px solid black;
+}
+
 .libTable {
     position: relative;
     top: 20%;
