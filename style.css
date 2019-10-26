@@ -240,3 +240,45 @@ form {
 #dpage p, #dpage h1, #dpage2 p, #dpage2 h1, #dpage3 p, #dpage3 h1 {
     color: black;
 }
+
+#dpage2 {
+    height: 60vh;
+    width: 100%;
+    background-color: white;
+    position: relative;
+}
+
+.dlbutton {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 150%;
+    text-decoration: none;
+    text-align: center;
+    border: 1px solid;
+    background-color: #ff8533;
+    color: white;
+    border-radius: 12px;
+    box-shadow: 0 9px #888888;
+    padding: 2px 6px;
+    transform: translate(-50%, -50%);
+}
+
+#dpage3 {
+    height: 100vh;
+    width: 100%;
+    background-color: white;
+    position: relative;
+}
+
+#buttonposlite {
+    position: absolute;
+    top: 20vh;
+    left: 25vw;
+    width: 25vw;
+}
+
+#buttonpospro {
+    position: absolute;
+    top: 20vh;
+    left: 60vw;
+    width: 25vw;
+}
