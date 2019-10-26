@@ -1,31 +1,53 @@
 <!DOCTYPE html>
 <head>
 	<meta charset="UTF-8">
-	<title>Create your Account</title>
+	<title>Download | AIM</title>
 	<link rel="stylesheet" href="style.css">
+	<script src="main.js"></script>
 </head>
 <body>
-	<div id="download">
-		<h1>
+	<div id="dpage">
+		<br>
+		<br>
+		<br>
+		<h1>Ready to get started?</h1>
+		<p onclick="popup()">Simply <u>Create an Account</u> to continue.</p>
+	</div>
+
+	<div id="dpage2" class="hidden">
+		<h1>Select your version:</h1>
+		<p onclick="showthanks()" id="buttonposlite" class="dlbutton">Download the lite version (1.0.1)</p>
+		<p onclick="showthanks()" id="buttonpospro" class="dlbutton">Download the pro version (2.0.1)</p>
+	</div>
+
+	<div id="dpage3" class="hidden">
+		<br>
+		<h1>Thank you for your support, good luck in your producing</h1>
+		<p>Your download should start momentarily</p>
 
 	</div>
 
+	<div id="popup" class="hidden">
+		<h1>Create your Account</h1>
+		<form>
+			Username: <input type="text" name="Username"><br>
+			Password: <input type="text" name="Password"><br>
+		</form>
+		<button id="submit" onclick="showselection()">Submit</button>
 
+	</div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+	<div class="fixedHeader">
+        	<nav>
+        	    <ul>
+        	        <li><a id="dlcolor" href="index.html#home">Home</a></li> <!--
+        	        --><li><a id="dlcolor" href="index.html#features">Features</a></li><!--
+        	        --><li><a id="dlcolor" href="index.html#download">Download</a></li><!--
+        	        --><li><a id="dlcolor" href="index.html#about_us">Who is Aim.Studio?</a></li><!--
+        	        --><li><a id="dlcolor" href="index.html#try">Try it out</a></li><!--
+        	    </ul>
+        	</nav>
+    	</div>
 
 
 </body>
