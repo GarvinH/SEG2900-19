@@ -87,8 +87,8 @@ li {
 
 video {
     position: relative;
-    float: right;
-  /*  height: calc(100vh - 64px); im not sure why this is gone */
+    float: center;
+    height: 100vh; im not sure why this is gone
 }
 
 #home { 
@@ -192,6 +192,10 @@ table.libTable td {
     background-color: #e67300;
     box-shadow: 0 5px #666;
     transform: translate(-50%, -40%);
+}
+
+#dlcolor{
+    color: black;
 }
 
 #popup {
