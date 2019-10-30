@@ -88,7 +88,7 @@ li {
 video {
     position: relative;
     float: right;
-   /* height: calc(100vh - 64px); im not sure why this is gone*/
+    height: calc(100vh - 64px); im not sure why this is gone
 }
 
 #home { 
