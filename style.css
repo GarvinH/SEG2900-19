@@ -93,7 +93,13 @@ li {
 video {
     position: relative;
     float: center;
-    height: 100vh; im not sure why this is gone
+    height: 100vh;
+}
+
+#centeredtitle {
+	position: absolute;
+	top: 50%;
+	left: 45%;
 }
 
 #home { 
