@@ -1,3 +1,4 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto+Mono:100'
   
 /*
 Colors
@@ -49,8 +50,8 @@ nav a{
     margin: 0;
     text-decoration: none;
     display: inline-block;
-    font-family: "Times New Roman", Times, sans-serif;
-    font-size: 16.9pt;
+    font-family 'Roboto Mono', monospace
+    font-size: 18pt;
     width: 20%, 2%;
     text-align: center;
     vertical-align: center;
