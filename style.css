@@ -1,6 +1,6 @@
-/* @import 'https://fonts.googleapis.com/css?family=Roboto+Mono:100'
-  
 
+  
+/*
 Colors
 
 #ff8533
@@ -50,8 +50,8 @@ nav a{
     margin: 0;
     text-decoration: none;
     display: inline-block;
-    font-family 'Roboto Mono', monospace
-    font-size: 18pt;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 13pt;
     width: 20%, 2%;
     text-align: center;
     vertical-align: center;
