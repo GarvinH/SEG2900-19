@@ -280,7 +280,7 @@ table.libTable td {
 #popup {
     height: 60vh;
     width: 40vw;
-    background-color: lightblue;
+    background-color: #ff8533;
     border-radius: 5px;
     position: fixed;
     left: 30vw;
@@ -289,7 +289,7 @@ table.libTable td {
 
 #submit {
     position: fixed;
-    top: 62.5%;
+    top: 65%;
     left: 35%;
 }
 
