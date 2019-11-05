@@ -106,14 +106,8 @@ ul {
     /*transform: translateY(calc(32px - 50%));*/
 }
 
-video {
-    position: relative;
-    float: center;
-    height: 100vh; im not sure why this is gone
-}
-
 .button {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Quicksand', sans-serif;
     font-size: 200%;
     text-decoration: none;
     border: 1px solid;
@@ -193,6 +187,12 @@ video {
 table.libTable td {
     padding: 2% 5%;
     width: 35%;
+}
+
+.video {
+    position: relative;
+    float: center;
+    height: 100vh; im not sure why this is gone
 }
 
 #about_us {
