@@ -67,7 +67,7 @@ nav a:hover {
 
 p {
     font-family: 'Quicksand', sans-serif;
-    font-size: 200%;
+    font-size: 250%;
     color: white;
     margin: 0;
     position: relative;
@@ -248,14 +248,14 @@ table.libTable td {
 
 #buttonposlite {
     position: absolute;
-    top: 70vh;
+    top: 60vh;
     left: 30vw;
     width: 20vw;
 }
 
 #buttonpospro {
     position: absolute;
-    top: 70vh;
+    top: 60vh;
     left: 70vw;
     width: 20vw;
 }
