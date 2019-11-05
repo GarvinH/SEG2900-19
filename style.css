@@ -193,6 +193,14 @@ table.libTable td {
     position: relative;
 }
 
+#ben {
+    position: absolute;
+    top: 30%;
+    right: 20%;
+    width: 10%;
+    border-radius: 100%;
+}
+
 #bl {
 	border-left: 0px solid black;
 }
@@ -213,6 +221,14 @@ table.libTable td {
 
 #createaccount {
     font-size: 100%;
+}
+
+#dillon {
+    position: absolute;
+    top: 30%;
+    right: 40%;
+    width: 10%;
+    border-radius: 100%;
 }
 
 #dlcolor{
@@ -261,6 +277,22 @@ table.libTable td {
     width: 100%;
     background-color: black;
     position: relative;
+}
+
+#garv {
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    width: 10%;
+    border-radius: 100%;
+}
+
+#gio {
+    position: absolute;
+    top: 50%;
+    right: 30%;
+    width: 10%;
+    border-radius: 100%;
 }
 
 #home { 
