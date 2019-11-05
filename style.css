@@ -50,7 +50,7 @@ nav a{
     text-decoration: none;
     display: inline-block;
     font-family: "Times New Roman", Times, sans-serif;
-    font-size: 16.9pt;
+    font-size: 14pt;
     width: 17%, 2%;
     text-align: center;
     vertical-align: center;
@@ -378,9 +378,12 @@ table.libTable td {
 svg {
     display: block;
     font: 10.5em 'Quicksand';
-    width: 960px;
+    width: 700px;
     height: 300px;
     margin: 0 auto;
+    position: relative;
+    z-index: 100;
+    top: -80vh;
 }
 
 .text-copy {
@@ -393,12 +396,12 @@ svg {
 }
 
 .text-copy:nth-child(1){
-    stroke: #4D163D;
+    stroke: #808080;
     animation-delay: -1;
 }
 
 .text-copy:nth-child(2){
-    stroke: #840037;
+    stroke: #E0E0E0;
     animation-delay: -2s;
 }
 
