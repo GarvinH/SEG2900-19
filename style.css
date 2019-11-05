@@ -193,6 +193,14 @@ table.libTable td {
     position: relative;
 }
 
+#ava {
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    width: 10%;
+    border-radius: 100%;
+}
+
 #ben {
     position: absolute;
     top: 30%;
@@ -282,7 +290,7 @@ table.libTable td {
 #garv {
     position: absolute;
     top: 50%;
-    right: 50%;
+    right: 10%;
     width: 10%;
     border-radius: 100%;
 }
