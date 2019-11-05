@@ -189,7 +189,7 @@ table.libTable td {
 #about_us {
     height: 100vh;
     width: 100%;
-    background-color: #737373;
+    background-color: black;
     position: relative;
 }
 
@@ -258,7 +258,7 @@ table.libTable td {
 #features {
     height: 100vh;
     width: 100%;
-    background-color: blue;
+    background-color: black;
     position: relative;
 }
 
@@ -296,6 +296,6 @@ table.libTable td {
 #try {
     height: 100vh;
     width: 100%;
-    background-color: #737373;
+    background-color: black;
     position: relative;
 }
