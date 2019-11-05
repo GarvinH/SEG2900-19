@@ -20,7 +20,7 @@ form {
 }
 
 h1 {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Exo 2', sans-serif;
     font-size: 300%;
     margin: 0;
     position: relative;
@@ -65,7 +65,7 @@ nav a:hover {
 }
 
 p {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Quicksand', sans-serif;
     font-size: 200%;
     color: white;
     margin: 0;
@@ -86,7 +86,7 @@ pre {
 }
 
 table.downTable th, table.downTable td {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Quicksand', sans-serif;
 	border-left: 3px solid black;
 	font-size: 150%;
 	color: black;
@@ -138,7 +138,7 @@ video {
 }
 
 .dlbutton {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Quicksand', sans-serif;
     font-size: 150%;
     text-decoration: none;
     text-align: center;
