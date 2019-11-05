@@ -231,9 +231,9 @@ table.libTable td {
 }
 
 #dpage {
+    background-color: #1a75ff;
     height: 40vh;
     width: 100%;
-    background-color: white;
     position: relative;
 }
 
@@ -242,17 +242,18 @@ table.libTable td {
 }
 
 #dpage2 {
+    background-color: #1a75ff;
     height: 60vh;
     width: 100%;
-    background-color: white;
     position: relative;
 }
 
 #dpage3 {
+    background-color: #1a75ff;
     height: 100vh;
     width: 100%;
-    background-color: white;
-    position: relative;
+    position: absolute;
+    top: 64px;
 }
 
 #features {
