@@ -190,9 +190,9 @@ table.libTable td {
 }
 
 .video {
-    position: relative;
-    float: center;
-    height: 100vh; im not sure why this is gone
+    display: block;
+    margin: 0 auto;
+    height: 100vh;
 }
 
 #about_us {
