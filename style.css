@@ -151,6 +151,13 @@ video {
     transform: translate(-50%, -50%);
 }
 
+.dropLibrary {
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+    background-color: #e67300;
+    border: 0;
+    font-size: 110%;
+}
 
 .downTable {
     border-collapse: collapse;
