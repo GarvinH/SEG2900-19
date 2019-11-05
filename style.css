@@ -271,6 +271,7 @@ table.libTable td {
 
 #downloadmbutton {
     top: 90%;
+    color: 333333;
 }
 
 #dpage {
@@ -419,4 +420,5 @@ svg {
 }
 
 @keyframes stroke-offset{
-    100% {stroke-dashoffset: -35%;}
+    100% {stroke-dashoffset: -35%;
+}
