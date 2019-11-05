@@ -265,6 +265,10 @@ table.libTable td {
     color: black;
 }
 
+#downloadmbutton {
+    top: 92.5%;
+}
+
 #dpage {
     background-color: #1a75ff;
     height: 50vh;
