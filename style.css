@@ -215,20 +215,24 @@ table.libTable td {
 
 #buttonposlite {
     position: absolute;
-    top: 20vh;
-    left: 25vw;
-    width: 25vw;
+    top: 50vh;
+    left: 30vw;
+    width: 20vw;
 }
 
 #buttonpospro {
     position: absolute;
-    top: 20vh;
-    left: 60vw;
-    width: 25vw;
+    top: 50vh;
+    left: 70vw;
+    width: 20vw;
 }
 
 #createaccount {
     font-size: 100%;
+}
+
+#dlheader {
+    background: white;
 }
 
 #dillon {
@@ -267,6 +271,9 @@ table.libTable td {
 
 #dpage2 {
     background-color: #1a75ff;
+    background-image: url("0.jpg");
+    background-repeat: no-repeat;
+    background-position: 50% 0%;
     height: 60vh;
     width: 100%;
     position: relative;
