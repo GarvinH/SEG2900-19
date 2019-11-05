@@ -8,8 +8,11 @@ function popup() {
 function showselection() {
 	var element = document.getElementById("dpage2");
 	var element2 = document.getElementById("popup");
+	var element3 = document.getElementById("dpageimg");
 	element.classList.remove("hidden");
 	element2.classList.add("hidden");
+	element3.classList.add("hidden");
+	document.getElementById("kill").textContent = "Thank You!"; 
 }
 
 function showthanks() {
