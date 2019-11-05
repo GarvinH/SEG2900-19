@@ -157,6 +157,7 @@ video {
     background-color: #e67300;
     border: 0;
     font-size: 110%;
+    position: absolute;
 }
 
 .downTable {
