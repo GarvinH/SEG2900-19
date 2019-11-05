@@ -21,7 +21,7 @@ form {
 
 h1 {
     font-family: 'Exo 2', sans-serif;
-    font-size: 500%;
+    font-size: 300%;
     margin: 0;
     position: relative;
     top: 10%;
@@ -214,6 +214,10 @@ table.libTable td {
     right: 20%;
     width: 10%;
     border-radius: 100%;
+}
+
+#bigger {
+       font-size: 500%;
 }
 
 #bl {
