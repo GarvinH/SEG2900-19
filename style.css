@@ -215,14 +215,14 @@ table.libTable td {
 
 #buttonposlite {
     position: absolute;
-    top: 50vh;
+    top: 70vh;
     left: 30vw;
     width: 20vw;
 }
 
 #buttonpospro {
     position: absolute;
-    top: 50vh;
+    top: 70vh;
     left: 70vw;
     width: 20vw;
 }
@@ -273,7 +273,7 @@ table.libTable td {
     background-color: #1a75ff;
     background-image: url("0.jpg");
     background-repeat: no-repeat;
-    background-position: 50% 0%;
+    background-position: 50% 10vh;
     height: 60vh;
     width: 100%;
     position: relative;
