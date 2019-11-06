@@ -108,7 +108,7 @@ ul {
 
 .button {
     font-family: 'Quicksand', sans-serif;
-    font-size: 150%;
+    font-size: 200%;
     text-decoration: none;
     border: 1px solid;
     color: #d5be65;
@@ -400,7 +400,7 @@ table.libTable td {
 svg {
     display: block;
     font: 10.5em 'Quicksand';
-    width: 700px;
+    width: 850px;
     height: 300px;
     margin: 0 auto;
     position: relative;
