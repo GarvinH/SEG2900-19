@@ -51,7 +51,7 @@ nav a{
     display: inline-block;
     font-family: "Times New Roman", Times, sans-serif;
     font-size: 16pt;
-    width: 17%, 2%;
+    width: 21%, 2%;
     text-align: center;
     vertical-align: center;
     padding: 17.7px;
@@ -108,20 +108,20 @@ ul {
 
 .button {
     font-family: 'Quicksand', sans-serif;
-    font-size: 200%;
+    font-size: 250%;
     text-decoration: none;
     border: 1px solid;
     color: #d5be65;
     padding: 2px 6px;
     position: absolute;
-    top: 58%;
+    top: 60%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
 
 .button2 {
     font-family: 'Quicksand', sans-serif;
-    font-size: 150%;
+    font-size: 175%;
     text-decoration: none;
     border: 1px solid;
     color: white;
@@ -400,12 +400,12 @@ table.libTable td {
 svg {
     display: block;
     font: 10.5em 'Quicksand';
-    width: 850px;
+    width: 1100px;
     height: 300px;
     margin: 0 auto;
     position: relative;
     z-index: 100;
-    top: -73%;
+    top: -70%;
 }
 
 .text-copy {
