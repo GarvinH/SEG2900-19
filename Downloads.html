@@ -6,32 +6,17 @@
 	<script src="main.js"></script>
 </head>
 <body bgcolor="white">
-	<div id="dpage">
+	<div id="dpagetry">
 		<br>
 		<br>
 		<br>
-		<h1>Ready to get started?</h1>
+		<h1 id="dheader">Ready to get started?</h1>
 		<br>
-		<p>Got your song planned out? Don't waste any time! Create your AIM.Studio account right here! Easily switch between devices, Upgrade to Pro anytime, View your activity, and much, much more.</p>
+		<p id="dpara">Got your song planned out? Don't waste any time! Create your AIM.Studio account right here! Easily switch between devices, Upgrade to Pro anytime, View your activity, and much, much more.</p>
 		<br>
-		<p onclick="popup()" id="kill">Simply <u>Click Here</u> to continue.</p>
-	</div>
-
-	<div id="dpageimg">
-		<br>
-	</div>
-
-	<div id="dpage2" class="hidden">
-		<h1>Select your version:</h1>
-		<p onclick="showthanks()" id="buttonposlite" class="dlbutton">Download the lite version (1.0.1)</p>
-		<p onclick="showthanks()" id="buttonpospro" class="dlbutton">Download the pro version (2.0.1)</p>
-	</div>
-
-	<div id="dpage3" class="hidden">
-		<br>
-		<h1>Thank you for your support, good luck in your producing</h1>
-		<p>Your download should start momentarily</p>
-
+		<p onclick="popup()" id="dpara2">Simply <u>Click Here</u> to continue.</p>
+		<p onclick="showthanksmessage()" id="buttonposlite" class="hidden">Download the lite version (1.0.1)</p>
+		<p onclick="showthanksmessage()" id="buttonpospro" class="hidden">Download the pro version (2.0.1)</p>
 	</div>
 
 	<div id="popup" class="hidden">
@@ -39,10 +24,8 @@
 		<form>
 			Username: <input type="text" name="Username"><br>
 			Password: <input type="text" name="Password"><br>
-			<input type="radio" name="Version" checked> Lite
-			<input type="radio" name="Version"> Pro
 		</form>
-		<button id="submit" onclick="showselection()">Submit</button>
+		<button id="submit" onclick="showbuttons()">Submit</button>
 
 	</div>
 
