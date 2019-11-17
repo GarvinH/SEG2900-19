@@ -210,6 +210,11 @@ ul {
     vertical-align: top;
 }
 
+.s-text {
+    position: relative;
+    top: 100px;
+}
+
 table.libTable td {
     padding: 2% 5%;
     width: 35%;
