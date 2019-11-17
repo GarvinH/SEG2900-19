@@ -6,16 +6,14 @@ $(document).ready(function() {
 });
 
 function popup() {
-	var element = document.getElementById("popup");
-	element.classList.remove("hidden");
+	document.getElementById("popup").classList.remove("hidden");
 }
 
 function showbuttons() {
-	var element = document.getElementById("popup");
-	element.classList.add("hidden");
+	document.getElementById("popup").classList.add("hidden");
 	document.getElementById("dheader").textContent = "Select your version:";
 	document.getElementById("dpara").textContent = "Here you have two options, Lite or Pro. Lite is the free version, for those looking for simple songs. Pro is for those looking to get the most out of the AIM.Studio experience, with many more options right at your finger tips! ";
-	document.getElementById("kill").textContent = " "; 
+	document.getElementById("dpara2").textContent = " "; 
 }
 
 function showthanksmessage() {
