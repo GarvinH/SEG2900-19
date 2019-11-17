@@ -457,8 +457,11 @@ table.libTable td {
 
 #dpagetry {
     background-color: white;
-    height: 50vh;
-    width: 100%;
+    background-image: url("Phone2.png");
+    background-repeat: no-repeat;
+    background-position: 50% 40%;
+    height: 100vh;
+    width: 100vw;
     position: relative;
 }
 
