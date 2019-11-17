@@ -10,6 +10,77 @@ function popup() {
 	element.classList.remove("hidden");
 }
 
+function showbuttons() {
+	var element = document.getElementById("popup");
+	element.classList.add("hidden");
+	document.getElementById("dheader").textContent = "Select your version:";
+	document.getElementById("dpara").textContent = "Here you have two options, Lite or Pro. Lite is the free version, for those looking for simple songs. Pro is for those looking to get the most out of the AIM.Studio experience, with many more options right at your finger tips! ";
+	document.getElementById("kill").textContent = " "; 
+}
+
+function showthanksmessage() {
+	document.getElementById("dheader").textContent = "Thank you for your support, good luck in your producing!";
+	document.getElementById("dpara").textContent = "Your download should start momentarily";
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 function showselection() {
 	var element = document.getElementById("dpage2");
 	var element2 = document.getElementById("popup");

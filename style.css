@@ -449,3 +449,27 @@ table.libTable td {
 @keyframes stroke-offset{
     100% {stroke-dashoffset: -35%;}
 }
+
+
+
+
+
+
+#dpagetry {
+    background-color: white;
+    height: 50vh;
+    width: 100%;
+    position: relative;
+}
+
+#dpagetry p, #dpagetry h1 {
+    color: black;
+}
+
+#dheader {
+
+}
+
+#dpara {
+
+}
