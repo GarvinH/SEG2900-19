@@ -86,6 +86,10 @@ pre {
     white-space: pre-line;
 }
 
+symbol {
+    display: none;
+}
+
 table.downTable th, table.downTable td {
     font-family: 'Quicksand', sans-serif;
 	border-left: 3px solid black;
@@ -117,6 +121,7 @@ ul {
     top: 60%;
     left: 50%;
     transform: translate(-50%, -50%);
+    display: none;
 }
 
 .button2 {

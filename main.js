@@ -1,5 +1,10 @@
 //window.alert('Welcome to AIM.Studio We hope you are well.');
 
+$(document).ready(function() {
+	$("symbol").fadeIn(1000);
+	$(".button").delay(600).fadeIn(1000);
+});
+
 function popup() {
 	var element = document.getElementById("popup");
 	element.classList.remove("hidden");
