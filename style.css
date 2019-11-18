@@ -94,7 +94,7 @@ svg {
     margin: 0 auto;
     position: relative;
     z-index: 100;
-    top: -90%;
+    top: -80%;
 }
 
 symbol {
@@ -208,11 +208,6 @@ ul {
     top: 20%;
     left: 30%;
     vertical-align: top;
-}
-
-.s-text {
-    position: relative;
-    top: 100px;
 }
 
 table.libTable td {
