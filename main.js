@@ -5,6 +5,13 @@ $(document).ready(function() {
 	$(".button").delay(600).fadeIn(1000);
 });
 
+document.onload = (function () {
+	if (navigator.userAgent.match(/Android/i) || navigator.userAgent.match(/webOS/i) || navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPad/i) || navigator.userAgent.match(/iPod/i) ||
+	navigator.userAgent.match(/BlackBerry/i) || navigator.userAgent.match(/Windows Phone/i)) {
+		$("video").hide();
+	}
+});
+
 function popup() {
 	document.getElementById("popup").classList.remove("hidden");
 }
