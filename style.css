@@ -288,7 +288,7 @@ table.libTable td {
     text-decoration: none;
     text-align: center;
     border: 1px solid;
-    background-color: #ff8533;
+    background-color: #d5be65;
     color: white;
     border-radius: 12px;
     box-shadow: 0 9px #888888;
@@ -307,7 +307,7 @@ table.libTable td {
     text-decoration: none;
     text-align: center;
     border: 1px solid;
-    background-color: #ff8533;
+    background-color: #d5be65;
     color: white;
     border-radius: 12px;
     box-shadow: 0 9px #888888;
@@ -354,8 +354,17 @@ table.libTable td {
     position: relative;
 }
 
-#dpage p, #dpage h1 {
+#dpara, #dpara2 {
+    font-family: 'Quicksand', sans-serif;
     color: black;
+    text-align: center;
+}
+
+#dheader {
+    font-family: 'Exo 2', sans-serif;
+    color: black;
+    text-align: center;
+    left: 0%;
 }
 
 #features {
@@ -399,7 +408,7 @@ table.libTable td {
 #popup {
     height: 60vh;
     width: 40vw;
-    background-color: #ff8533;
+    background-color: #d5be65;
     border-radius: 5px;
     position: fixed;
     left: 30vw;
