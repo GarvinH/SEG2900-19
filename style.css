@@ -424,6 +424,12 @@ table.libTable td {
     position: relative;
 }
 
+#x {
+    position: fixed;
+    top: 21vh;
+    left: 67vw;
+}
+
 @keyframes stroke-offset{
     100% {stroke-dashoffset: -35%;}
 }

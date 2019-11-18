@@ -9,6 +9,10 @@ function popup() {
 	document.getElementById("popup").classList.remove("hidden");
 }
 
+function closepopup() {
+	document.getElementById("popup").classList.add("hidden");
+}
+
 function showbuttons() {
 	document.getElementById("popup").classList.add("hidden");
 	document.getElementById("dheader").textContent = "Select your version:";
