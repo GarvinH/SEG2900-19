@@ -94,7 +94,7 @@ svg {
     margin: 0 auto;
     position: relative;
     z-index: 100;
-    top: -70%;
+    top: -90%;
 }
 
 symbol {
@@ -409,10 +409,6 @@ table.libTable td {
     position: fixed;
     left: 30vw;
     top: 20vh;
-}
-
-#sm {
-    font-size: 100%;
 }
 
 #submit {
