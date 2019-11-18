@@ -265,14 +265,14 @@ table.libTable td {
 #ava {
     position: absolute;
     top: 50%;
-    right: 50%;
+    right: 60%;
     width: 10%;
     border-radius: 100%;
 }
 
 #ben {
     position: absolute;
-    top: 30%;
+    top: 40%;
     right: 20%;
     width: 10%;
     border-radius: 100%;
@@ -322,7 +322,7 @@ table.libTable td {
 
 #dillon {
     position: absolute;
-    top: 30%;
+    top: 40%;
     right: 40%;
     width: 10%;
     border-radius: 100%;
@@ -376,7 +376,7 @@ table.libTable td {
 
 #garv {
     position: absolute;
-    top: 50%;
+    top: 60%;
     right: 10%;
     width: 10%;
     border-radius: 100%;
@@ -384,7 +384,7 @@ table.libTable td {
 
 #gio {
     position: absolute;
-    top: 50%;
+    top: 60%;
     right: 30%;
     width: 10%;
     border-radius: 100%;
