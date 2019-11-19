@@ -1,5 +1,16 @@
 //window.alert('Welcome to AIM.Studio We hope you are well.');
 
+var previousScrollY = window.pageYOffset;
+window.onscroll = (function() {
+	var currentScrollY = window.pageYOffset;
+	if (previousScrollY > currentScrollY) {
+		document.getElementById("fixedHeader").style.top="0";
+	} else {
+		document.getElementById("fixedHeader").style.top="-50px";
+	}
+	previousScrollY = window.pageYOffset;
+});
+
 $(document).ready(function() {
 	$("symbol").fadeIn(1000);
 	$(".button").delay(600).fadeIn(1000);
