@@ -76,6 +76,14 @@ p {
     width: 80%;
 }
 
+p.copyright {
+    font-family: 'Quicksand', sans-serif;
+    color: silver;
+    text-decoration: underline;
+    font-size: 15px;
+}
+
+
 p.library{
     position: static;
     top: 0;
@@ -171,16 +179,8 @@ ul {
     box-shadow: 0 5px #666;
     transform: translate(-50%, -40%);
 }
-
-p.copyright {
-    font-family: 'Quicksand', sans-serif;
-    color: silver;
-    text-decoration: line-through;
-    font-size: 15px;
-}
-    
-	    
-
+   
+	  
 .dropLibrary {
     font-family: 'Quicksand', sans-serif;
     color: white;
