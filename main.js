@@ -6,7 +6,7 @@ window.onscroll = (function() {
 	if (previousScrollY > currentScrollY) {
 		document.getElementById("fixedHeader").style.top="0";
 	} else {
-		document.getElementById("fixedHeader").style.top="-50px";
+		document.getElementById("fixedHeader").style.top="-65px";
 	}
 	previousScrollY = window.pageYOffset;
 });
