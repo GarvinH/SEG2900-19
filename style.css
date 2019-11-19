@@ -172,6 +172,15 @@ ul {
     transform: translate(-50%, -40%);
 }
 
+.copyright {
+    font-family: 'Quicksand', sans-serif;
+    color: silver;
+    text-decoration: line-through;
+    font-size: 15px;
+}
+    
+	    
+
 .dropLibrary {
     font-family: 'Quicksand', sans-serif;
     color: white;
