@@ -4,9 +4,9 @@ var previousScrollY = window.pageYOffset;
 window.onscroll = (function() {
 	var currentScrollY = window.pageYOffset;
 	if (previousScrollY > currentScrollY) {
-		document.getElementById("fixedHeader").style.top="0";
+		$(".fixedHeader").slideDown("slow");
 	} else {
-		document.getElementById("fixedHeader").style.top="-65px";
+		$(".fixedHeader").slideUp("slow");
 	}
 	previousScrollY = window.pageYOffset;
 });
