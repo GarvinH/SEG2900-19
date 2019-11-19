@@ -172,7 +172,7 @@ ul {
     transform: translate(-50%, -40%);
 }
 
-.copyright {
+p.copyright {
     font-family: 'Quicksand', sans-serif;
     color: silver;
     text-decoration: line-through;
