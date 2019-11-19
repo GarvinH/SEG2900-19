@@ -264,8 +264,8 @@ table.libTable td {
 
 #ava {
     position: absolute;
-    top: 50%;
-    right: 60%;
+    top: 60%;
+    right: 50%;
     width: 10%;
     border-radius: 100%;
 }
